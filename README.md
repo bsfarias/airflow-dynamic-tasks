@@ -1,4 +1,4 @@
-# AIRFLOW XCOM EXAMPLE
+# AIRFLOW DYNAMIC TASKS
 
 ## Introdução
 Este projeto tem como objetivo testar a funcionalidade de gerar tasks dinamicamente no Apache Airflow
